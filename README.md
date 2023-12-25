@@ -1,4 +1,4 @@
-# ChatGPT Internal Instructions
+# ChatGPT Instructions
 
 by Richards Tu • [Twitter (X)](https://twitter.com/richards_19999)
 
